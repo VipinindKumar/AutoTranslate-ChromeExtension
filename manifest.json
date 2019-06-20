@@ -1,0 +1,6 @@
+{
+ "name": "Auto-translate a blocked webpage",
+ "version": "0.1",
+ "description": "Remove the notranslate property from webpages",
+ "manifest_version": 2
+}
