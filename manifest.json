@@ -7,7 +7,7 @@
  "content_scripts": [
     {
       "matches": ["https://coursehunters.net/*"],
-      "run_at": "document_start",
+      "run_at": "document_end",
       "js": ["contentScript.js"]
     }
   ]
