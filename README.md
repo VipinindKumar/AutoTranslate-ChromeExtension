@@ -14,3 +14,4 @@ Chrome Extension that let Google Chrome auto-translate despite being blocked by 
 
 * Replaced the meta tag with content notranslate with meta tag with translate, but it didn't worked for auto translation
 * it will have no affect, as it will be generated after the page is loaded
+* For modifying the HEAD, need to dynamically inject your code into the HEAD (via a third party module??)
