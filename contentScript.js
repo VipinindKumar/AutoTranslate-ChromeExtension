@@ -3,4 +3,4 @@
 
 var element = document.querySelector('meta[name="google"]');
 //element.parentElement.removeChild(element);
-element.innerHTML="new content";
+element.attributes="new content";
